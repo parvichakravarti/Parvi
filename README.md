@@ -10,7 +10,7 @@
 
 
 ## 💫 About Me:
-- 🌱 I’m currently learning **Data Analysis**.
+- 🌱 I’m eager to learn new technologies.
 - 💬 Ask me about **Python**, **Data Analysis**, **Data Science**, and more!
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
