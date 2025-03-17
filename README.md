@@ -32,19 +32,13 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
 
 
-
-## LeetCode Dashboard
-![LeetCode Stats](https://leetcard.jacoblin.cool/VIBUDESH_balaji?theme=dark&font=Oleo%20Script&ext=heatmap)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
-
 # 📊 GitHub Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vibudesh07&access_token=YOUR_TOKEN)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parvichakravarti&access_token=YOUR_TOKEN)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VIBUDESH07&bg_color=000000&color=00ff1e&line=00ff62&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![](https://github-readme-stats.vercel.app/api?username=VIBUDESH07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VIBUDESH07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=parvichakravarti&bg_color=000000&color=00ff1e&line=00ff62&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-readme-stats.vercel.app/api?username=parvichakravarti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parvichakravarti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
 
 ## 🏆 GitHub Trophies
