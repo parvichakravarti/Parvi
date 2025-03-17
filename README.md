@@ -1,8 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-# Hi 👋, I'm VIBUDESH R B
-#### A passionate full stack developer from Tamil Nadu
-### 🏆 **SIH 2k24 WINNER** 
+# Hi 👋, I'm Parvi Chakravrti
+#### A passionate data analyst from Maharashtra 
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
@@ -10,10 +9,8 @@
 
 
 ## 💫 About Me:
-- 🔭 I’m currently working on a CommuneX.
-- 🌱 I’m currently learning **Devops**.
-- 💬 Ask me about **Web Development**, **Java**, **Python**, and more!
-- ⚡ Fun fact: I love solving puzzles and playing chess.
+- 🌱 I’m currently learning **Data Analysis**.
+- 💬 Ask me about **Python**, **Data Analysis**, **Data Science**, and more!
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
 
