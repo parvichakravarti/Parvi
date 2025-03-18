@@ -47,8 +47,6 @@
 [![](https://visitcount.itsvg.in/api?id=parvichakravarti&icon=0&color=0)](https://visitcount.itsvg.in)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
 
-## ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
 
